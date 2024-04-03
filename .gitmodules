@@ -1,0 +1,6 @@
+[submodule "mlops-v2-ado-demo"]
+	path = mlops-v2-ado-demo
+	url = https://github.com/avinashdevopsexp/mlops-v2-ado-demo.git
+[submodule "mlops-v2-workshop"]
+	path = mlops-v2-workshop
+	url = https://github.com/avinashdevopsexp/mlops-v2-workshop.git
